@@ -66,7 +66,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '372148657456',
     projectId: 'fir-tutorial-3c5bc',
     storageBucket: 'fir-tutorial-3c5bc.appspot.com',
-    iosClientId: '372148657456-imrn9tu1v1bpdqqeeop4s75mo6hgj4oa.apps.googleusercontent.com',
+    iosClientId:
+        '372148657456-imrn9tu1v1bpdqqeeop4s75mo6hgj4oa.apps.googleusercontent.com',
     iosBundleId: 'com.example.firebaseTut',
   );
 
@@ -76,7 +77,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '372148657456',
     projectId: 'fir-tutorial-3c5bc',
     storageBucket: 'fir-tutorial-3c5bc.appspot.com',
-    iosClientId: '372148657456-imrn9tu1v1bpdqqeeop4s75mo6hgj4oa.apps.googleusercontent.com',
+    iosClientId:
+        '372148657456-imrn9tu1v1bpdqqeeop4s75mo6hgj4oa.apps.googleusercontent.com',
     iosBundleId: 'com.example.firebaseTut',
   );
 }
